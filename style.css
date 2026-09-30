@@ -1,0 +1,16 @@
+.pai{
+    display: flex;
+    background-color: blue;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.pai div{
+    background-color: white;
+    border: solid 1px black;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    flex-direction: row;
+}
